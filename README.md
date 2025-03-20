@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá!👋,Eu sou Tamires Pereira.
 
-<!--
-**TamiresPereira24/TamiresPereira24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<liv>
+- 🔭Atualmente estou trabalhando em um app/site para estudantes que procuram melhorar sua vida academica educacional em todas as partes do mundo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🌱Atualmente meus estudos está sendo focado ao aprimoramento do nosso app
+- 👯estou em uma pareceria com os meus colegas programadores Karol Baquer, Nicolas Netto Pachecco e Leonidas Melindrosa Casoti no desenvolvimento do nosso sistema.
+- 🤔 I’m looking for help with achar mais desenvolvedores para o nosso app
+- 📫 Estou aberta a receber sugestoes
+- 😄Pronomes:Ela/dela
+- ⚡Fun fact:Sou nova na Área
+ <Liv>
 -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi-J9FVoDmJ7nSIuBrisAcMCBa-NiD_lhoA&s">
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<liv>
+
+
+ 
+ <img src="https://images3.memedroid.com/images/UPLOADED439/5d59b2161c182.jpeg">
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<liv>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsadVFif3MFduB2pTVs9kZID5iaidv7EQ1Xg&s">
+ 
