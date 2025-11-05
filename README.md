@@ -20,10 +20,5 @@
 <liv>
 
 
- 
- <img src="https://images3.memedroid.com/images/UPLOADED439/5d59b2161c182.jpeg">
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-<liv>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsadVFif3MFduB2pTVs9kZID5iaidv7EQ1Xg&s">
- 
+
